@@ -1,0 +1,23 @@
+{
+  "name": "kristian",
+  "version": "1.0.0",
+  "description": "Kristian Freeman as an NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristianfreeman/kristian.git"
+  },
+  "keywords": [
+    "kristian",
+    "freeman"
+  ],
+  "author": "Kristian Freeman <kristian@kristianfreeman.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristianfreeman/kristian/issues"
+  },
+  "homepage": "https://github.com/kristianfreeman/kristian#readme"
+}
