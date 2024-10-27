@@ -1,8 +1,8 @@
 {
   "name": "kristian",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Kristian Freeman as an NPM package",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
